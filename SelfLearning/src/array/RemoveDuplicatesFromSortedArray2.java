@@ -1,4 +1,4 @@
-package string;
+package array;
 /*
 https://www.youtube.com/watch?v=I0vmCnkcGW4
 
