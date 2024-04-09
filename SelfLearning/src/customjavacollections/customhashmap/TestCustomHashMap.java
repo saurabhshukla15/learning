@@ -1,4 +1,4 @@
-package CustomJavaCollections.CustomHashMap;
+package customjavacollections.customhashmap;
 
 public class TestCustomHashMap {
 

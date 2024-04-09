@@ -1,3 +1,5 @@
+package number;
+
 public class CountNoOfDigitsInANumber {
     public static int noOfDigits(int number) {
         int noOfDigits = 0;

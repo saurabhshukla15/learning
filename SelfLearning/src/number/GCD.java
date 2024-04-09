@@ -1,3 +1,5 @@
+package number;
+
 /*
 https://www.youtube.com/watch?v=B1gbmQF4o80&list=PLU83Ru7iGtAvP1rqt65MCDSBPFCzUKGXG&index=11
  */
@@ -15,7 +17,7 @@ public class GCD {
     }
 
     public static void main (String[] a) {
-        System.out.println("GCD :"+ gcd(20, 15) );
+        System.out.println("number.GCD :"+ gcd(20, 15) );
     }
 
 }

@@ -1,4 +1,4 @@
-package CustomJavaCollections.CustomHashMap;
+package customjavacollections.customhashmap;
 
 import java.util.Objects;
 

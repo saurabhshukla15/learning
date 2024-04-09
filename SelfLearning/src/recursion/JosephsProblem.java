@@ -1,7 +1,4 @@
-package Recursion;
-
-import java.util.Arrays;
-import java.util.stream.IntStream;
+package recursion;
 
 /*
 https://www.youtube.com/watch?v=ZhAAEr2C83g&list=PLU83Ru7iGtAvP1rqt65MCDSBPFCzUKGXG&index=40

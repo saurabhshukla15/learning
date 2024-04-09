@@ -1,3 +1,5 @@
+package number;
+
 import java.util.Scanner;
 /*
 https://www.youtube.com/watch?v=57hXUDXVY8s&list=PLU83Ru7iGtAvP1rqt65MCDSBPFCzUKGXG&index=10
