@@ -5,7 +5,7 @@ import java.util.Objects;
 public class CustomHashMap<K, V> {
 
     private static final int INITIAL_CAPACITY = 16;
-    private Entry<K, V>[] hashMap;
+    private final Entry<K, V>[] hashMap;
 
     public CustomHashMap() {
         hashMap = new Entry[INITIAL_CAPACITY];
